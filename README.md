@@ -45,3 +45,12 @@
 <p><img src="https://github.com/haseebahmed295/documentation-images/blob/main/Screenshot%202024-09-11%20071150.png" style="max-width: 100%;"><b><br></b></p>
 <p><img src="https://github.com/haseebahmed295/documentation-images/blob/main/Screenshot%202024-09-11%20071322.png" style="max-width: 100%;"><b><br></b></p>
 <p><img src="https://github.com/haseebahmed295/documentation-images/blob/main/Screenshot%202024-09-11%20071401.png" style="max-width: 100%;"><b><br></b></p>
+<h2>Credits:</h2>
+<p>
+  Real-ESRGAN ncnn Vulkan by <a href = "https://github.com/xinntao">xinntao</a>
+  <h4>Models:</h4>
+  <p>UltraSharp,ultramix_balanced by Kim2091</p>
+  <p>Remacri by FoolhardyVEVO</p>
+  <p>RealESRGAN_x4Plus by xinntao</p>
+  <p>4xLSDIRplusC,4xHFA2k by <a href ="https://github.com/Phhofm/models"> Helaman </a></p>
+</p>
